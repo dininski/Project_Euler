@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22 - Name Scores", "22 - Na
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "67 - Maxumum path sum II", "67 - Maximum path sum II\67 - Maxumum path sum II.csproj", "{4FBB98E1-5EE3-4433-8A4D-6199108238EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25 - 1000-digit Fibonacci number", "25 - 1000-digit Fibonacci number\25 - 1000-digit Fibonacci number.csproj", "{AC945DF1-F6E2-40A3-AEEA-75543CB6B4BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -91,6 +93,10 @@ Global
 		{4FBB98E1-5EE3-4433-8A4D-6199108238EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FBB98E1-5EE3-4433-8A4D-6199108238EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FBB98E1-5EE3-4433-8A4D-6199108238EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC945DF1-F6E2-40A3-AEEA-75543CB6B4BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC945DF1-F6E2-40A3-AEEA-75543CB6B4BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC945DF1-F6E2-40A3-AEEA-75543CB6B4BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC945DF1-F6E2-40A3-AEEA-75543CB6B4BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
