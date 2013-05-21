@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28 - Number spiral diagonal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12 - Highly Divisible Triangular Number", "12 - Highly Divisible Triangular Number\12 - Highly Divisible Triangular Number.csproj", "{AEB04C36-EA59-48A5-BD07-F0785A7C9ABB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "29 - Distinct powers", "29 - Distinct powers\29 - Distinct powers.csproj", "{D3F809AB-0322-4196-8C5D-A0C202C7613A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -115,6 +117,10 @@ Global
 		{AEB04C36-EA59-48A5-BD07-F0785A7C9ABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AEB04C36-EA59-48A5-BD07-F0785A7C9ABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AEB04C36-EA59-48A5-BD07-F0785A7C9ABB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3F809AB-0322-4196-8C5D-A0C202C7613A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3F809AB-0322-4196-8C5D-A0C202C7613A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3F809AB-0322-4196-8C5D-A0C202C7613A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3F809AB-0322-4196-8C5D-A0C202C7613A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
