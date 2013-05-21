@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "29 - Distinct powers", "29 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "48 - Self Powers", "48 - Self Powers\48 - Self Powers.csproj", "{FB33826C-AE75-4C41-8938-E0C11C075BD2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_26 - Reciprocal cycles - incomplete", "26 - Reciprocal cycles\_26 - Reciprocal cycles - incomplete.csproj", "{633419D7-612B-428E-BC42-29E3C457557C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -127,6 +129,10 @@ Global
 		{FB33826C-AE75-4C41-8938-E0C11C075BD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB33826C-AE75-4C41-8938-E0C11C075BD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB33826C-AE75-4C41-8938-E0C11C075BD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{633419D7-612B-428E-BC42-29E3C457557C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{633419D7-612B-428E-BC42-29E3C457557C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{633419D7-612B-428E-BC42-29E3C457557C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{633419D7-612B-428E-BC42-29E3C457557C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

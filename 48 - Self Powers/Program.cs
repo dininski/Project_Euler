@@ -14,9 +14,7 @@ class Program
                 numberRaised *= i;
             }
 
-            //Console.WriteLine(numberRaised);
             BigInteger lastTenDigits = numberRaised % 10000000000;
-            //Console.WriteLine(lastTenDigits);
             result += lastTenDigits;
         }
 
