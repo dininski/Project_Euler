@@ -4,18 +4,14 @@ class Program
 {
     static void Main(string[] args)
     {
-        int endingNumber = 1001;
         double sum = 0;
-        int startingNumber = 2;
-        for (int i = 0; i < endingNumber; i++)
+
+        for (int currentSide = 3; currentSide < 1003; currentSide += 2)
         {
-            for (int j = 0; j < 8; j += 2)
-            {
-                sum += startingNumber * endingNumber-i;
-                startingNumber += j;
-            }
+            int currentPeaksSum = 4 * currentSide * currentSide - 6 * (currentSide - 1);
+            sum += currentPeaksSum;
         }
-        sum += 4 * endingNumber + 1;
-        Console.WriteLine(sum);
+
+        Console.WriteLine(sum + 1);
     }
 }
