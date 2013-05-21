@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12 - Highly Divisible Trian
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "29 - Distinct powers", "29 - Distinct powers\29 - Distinct powers.csproj", "{D3F809AB-0322-4196-8C5D-A0C202C7613A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "48 - Self Powers", "48 - Self Powers\48 - Self Powers.csproj", "{FB33826C-AE75-4C41-8938-E0C11C075BD2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -121,6 +123,10 @@ Global
 		{D3F809AB-0322-4196-8C5D-A0C202C7613A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3F809AB-0322-4196-8C5D-A0C202C7613A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3F809AB-0322-4196-8C5D-A0C202C7613A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB33826C-AE75-4C41-8938-E0C11C075BD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB33826C-AE75-4C41-8938-E0C11C075BD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB33826C-AE75-4C41-8938-E0C11C075BD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB33826C-AE75-4C41-8938-E0C11C075BD2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
